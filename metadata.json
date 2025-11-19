@@ -1,0 +1,5 @@
+{
+  "name": "Zen Go (Weiqi)",
+  "description": "A beautiful, fully functional 19x19 Go (Weiqi) web application with automatic capture logic, undo functionality, and realistic aesthetics.",
+  "requestFramePermissions": []
+}
